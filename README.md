@@ -35,11 +35,14 @@ Prerequisites
 - Streamlit
 - pandas, numpy, seaborn, matplotlib, scikit-learn, scipy
 
-### Installation
+
+Installation
 git clone https://github.com/hamna-amir/crime-data-analysis.git
 cd crime-data-analysis
 pip install -r requirements.txt
 streamlit run app.py
+
+
 
 requirements.txt:
 streamlit
